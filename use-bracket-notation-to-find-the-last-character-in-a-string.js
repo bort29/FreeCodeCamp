@@ -1,10 +1,8 @@
-** start of script.js **
 
-// Setup
+
 const lastName = "Lovelace";
 
-// Only change code below this line
-const lastLetterOfLastName = lastName[lastName.length - 1]; // Change this line
 
-** end of script.js **
+const lastLetterOfLastName = lastName[lastName.length - 1];
+
 
