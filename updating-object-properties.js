@@ -1,4 +1,3 @@
-** start of script.js **
 
 // Setup
 const myDog = {
@@ -9,7 +8,3 @@ const myDog = {
 };
 myDog.name = 'Happy Coder'
 // Only change code below this line
-
-
-** end of script.js **
-
