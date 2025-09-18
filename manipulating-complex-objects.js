@@ -1,4 +1,3 @@
-** start of script.js **
 
 const myMusic = [
   {
@@ -25,5 +24,4 @@ const myMusic = [
   }
 ];
 
-** end of script.js **
 

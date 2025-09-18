@@ -1,4 +1,3 @@
-** start of script.js **
 
 // Setup
 function abTest(a, b) {
@@ -15,5 +14,4 @@ if (a < 0 || b < 0) {
 
 abTest(2,2);
 
-** end of script.js **
 

@@ -1,4 +1,3 @@
-** start of script.js **
 
 function chainToSwitch(val) {
   let answer = "";
@@ -27,5 +26,4 @@ function chainToSwitch(val) {
 
 chainToSwitch(7);
 
-** end of script.js **
 

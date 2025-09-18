@@ -1,4 +1,3 @@
-** start of script.js **
 
 // Setup
 function compareEquality(a, b) {
@@ -10,5 +9,4 @@ function compareEquality(a, b) {
 
 compareEquality(10, "10");
 
-** end of script.js **
 
