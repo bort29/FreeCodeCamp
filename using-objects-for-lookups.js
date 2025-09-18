@@ -1,4 +1,3 @@
-** start of script.js **
 
 // Setup
 function phoneticLookup(val) {
@@ -20,5 +19,4 @@ result = lookup[val];
 
 phoneticLookup("charlie");
 
-** end of script.js **
 
