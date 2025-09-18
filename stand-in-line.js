@@ -1,4 +1,3 @@
-** start of script.js **
 
 function nextInLine(arr, item) {
   // Only change code below this line
@@ -16,5 +15,4 @@ console.log("Before: " + JSON.stringify(testArr));
 console.log(nextInLine(testArr, 6));
 console.log("After: " + JSON.stringify(testArr));
 
-** end of script.js **
 
