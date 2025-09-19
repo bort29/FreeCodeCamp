@@ -8,3 +8,4 @@ const myDog = {
 };
 myDog.name = 'Happy Coder'
 // Only change code below this line
+  
