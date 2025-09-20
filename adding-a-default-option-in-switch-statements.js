@@ -1,8 +1,6 @@
-** start of script.js **
 
 function switchOfStuff(val) {
   let answer = "";
-  // Only change code below this line
 switch (val) {
   case "a" :
     answer = 'apple'; 
@@ -17,11 +15,9 @@ switch (val) {
     answer = "stuff";
     break;
 }
-  // Only change code above this line
+
   return answer;
 }
 
 switchOfStuff(1);
-
-** end of script.js **
 
