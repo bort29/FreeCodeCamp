@@ -6,8 +6,6 @@ function testLogicalOr(val) {
     return "Outside";
  
   }
-
- 
   return "Inside";
 }
 
