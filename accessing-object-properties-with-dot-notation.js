@@ -7,6 +7,8 @@ const testObj = {
 };
 
 
+
+
 const hatValue = testObj.hat;     
 const shirtValue = testObj.shirt;   
 
