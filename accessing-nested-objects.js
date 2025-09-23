@@ -1,4 +1,3 @@
-** start of script.js **
 
 const myStorage = {
   "car": {
@@ -14,6 +13,4 @@ const myStorage = {
 
 
 const gloveBoxContents = myStorage.car.inside["glove box"]
-
-** end of script.js **
 
