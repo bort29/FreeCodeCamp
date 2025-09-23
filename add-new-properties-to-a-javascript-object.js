@@ -1,4 +1,3 @@
-** start of script.js **
 
 const myDog = {
   "name": "Happy Coder",
@@ -8,7 +7,4 @@ const myDog = {
 };
 myDog.bark = 'woof';
 
-
-
-** end of script.js **
 
